@@ -20,11 +20,19 @@
   <body id="crBod">
     {% include header.html %}
 
-    <div class="col-md-12">
-      <img src = "{{ '/assets/img/banner.png?v=' | append: site.github.build_revision | relative_url }}" class="img-responsive" alt="branding-banner">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <img src = "{{ '/assets/img/banner.png?v=' | append: site.github.build_revision | relative_url }}" alt="branding-banner">
+        </div>
+      </div>
     </div>
 
-    {{ content }}
+    <div class="container-fluid">
+      <div class="row">
+        {{ content }}
+      </div>
+    </div>
 
   {% if site.google_analytics %}
     <script>
