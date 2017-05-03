@@ -17,18 +17,10 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
   </head>
-  <body>
+  <body id="crBod">
     {% include header.html %}
 
-    <div class="wrapper">
-      <section>
-
-      {{ content }}
-
-      </section>
-    </div>
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
+    {{ content }}
 
   {% if site.google_analytics %}
     <script>
@@ -42,6 +34,6 @@
     </script>
   {% endif %}
 
-  {% include footer.html %}
+    {% include footer.html %}
   </body>
 </html>
