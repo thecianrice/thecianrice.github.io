@@ -14,18 +14,14 @@
   <body id="crBod">
     {% include header.html %}
 
-    <div class="container-fluid">
-      <div class="row col-md-12">
-        <div class="center-block">
-          <img src = "{{ '/assets/img/banner.png?v=' | append: site.github.build_revision | relative_url }}" class="img-responsive" alt="branding-banner">
-        </div>
+    <div class="row col-md-12">
+      <div class="center-block">
+        <img src = "{{ '/assets/img/banner.png?v=' | append: site.github.build_revision | relative_url }}" class="img-responsive" alt="branding-banner">
       </div>
     </div>
 
-    <div class="container-fluid">
-      <div class="row">
-        {{ content }}
-      </div>
+    <div class="row">
+      {{ content }}
     </div>
 
   {% if site.google_analytics %}
