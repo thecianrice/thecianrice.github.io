@@ -12,12 +12,13 @@
     <![endif]-->
   </head>
   <body id="crBod">
+    
     {% include header.html %}
 
-    <div class="row col-md-12">
-      <div class="center-block">
-        <img src = "{{ '/assets/img/banner.png?v=' | append: site.github.build_revision | relative_url }}" class="img-responsive" alt="branding-banner">
-      </div>
+    <div class="row">
+      <span class="row col-md-12">
+          <img src = "{{ '/assets/img/banner.png?v=' | append: site.github.build_revision | relative_url }}"alt="branding-banner">
+      </span>
     </div>
 
     <div class="row">
