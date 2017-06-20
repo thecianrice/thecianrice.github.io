@@ -2,7 +2,7 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
-$green-bg: #a3ecc6;
+$green-bg: #0CCB5E;
 $black: #000000;
 
 /* Below is from Bootstrap Cover CSS */
@@ -45,9 +45,11 @@ body {
   background-size: cover;
 }
 
-body#press{
-  background-image: none;
-  background-color: $green-bg;
+#press {
+  background-color: rgba(0, 0, 0, 0.6);
+  width: auto;
+  padding: 2.5vw;
+  margin: auto;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
