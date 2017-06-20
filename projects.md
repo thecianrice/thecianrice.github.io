@@ -1,3 +1,6 @@
+---
+layout: projects
+---
 # Projects
 
 A listing of projects I've worked on.

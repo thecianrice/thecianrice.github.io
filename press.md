@@ -1,3 +1,7 @@
+---
+layout: press
+---
+
 # Press
 
 A listing of articles, etc. featuring me and/or my work.
