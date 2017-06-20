@@ -9,7 +9,7 @@ A listing of projects I've worked on.
 
 **Rock Band Rivals**: The expansion to _Rock Band 4_ the sequel to the highest rated game of all time. I helped maintain Harmonix's CMS backend code by resolving bugs, fixing issues for existing pages, and launching new pages for the studio.
 
-**Harmonix Customer Support Portal**: I led the effort to setup and prep [Harmonix's current CS portal] (https://harmonix.zendesk.com/hc/en-us) for public use. This involved getting a responsive layout ready, transitioning all CS content from Parature to Zendesk, and setting up the CS flow.
+**Harmonix Customer Support Portal**: I led the effort to setup and prep [Harmonix's current CS portal](https://harmonix.zendesk.com/hc/en-us) for public use. This involved getting a responsive layout ready, transitioning all CS content from Parature to Zendesk, and setting up the CS flow.
 
 **Rock Band 4 Event Setlist**: A [light-weight mobile-ready Rock Band 4 setlist](https://events.harmonixmusic.com/) for events like PAX and E3. I came up with the idea for this page, executed the original concept for PAX East 2016, iterated for E3 2016, and radically decreased wait time to play Rock Band 4 at Harmonix events.
 
