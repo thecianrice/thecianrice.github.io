@@ -45,7 +45,8 @@ body {
   background-size: cover;
 }
 
-body #press{
+body#press{
+  background-image: none;
   background-color: $green-bg;
 }
 
