@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 $green-bg: #a3ecc6;
 $black: #000000;
 
@@ -36,7 +34,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background: $green-bg url("img/banner.png") center cover;
+  background: $green-bg url("/img/banner.png") cover;
 }
 body {
   color: #fff;
