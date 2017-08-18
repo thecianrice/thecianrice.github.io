@@ -7,7 +7,7 @@ A listing of projects I've worked on.
 
 **Battle Decks 17**: As a part of the Worcester Game Pile I promoted, created powerpoints, helped organize, and participated on the PAX East 2017 panel [Battle Decks 17](https://www.youtube.com/watch?v=j6O_Jqb7EFE). I then took the footage recorded of the panel and edited the footage into a video that I promoted and released on Youtube for the meetup.
 
-**Rock Band Rivals**: The expansion to _Rock Band 4_ the sequel to the highest rated game of all time. I helped maintain Harmonix's CMS backend code by resolving bugs, fixing issues for existing pages, and launching new pages for the studio.
+**Rock Band Rivals**: The expansion to _Rock Band 4_, the sequel to the highest rated game of all time. I helped maintain Harmonix's CMS backend code by resolving bugs, fixing issues for existing pages, and launching new pages for the studio.
 
 **Harmonix Customer Support Portal**: I led the effort to setup and prep [Harmonix's current CS portal](https://harmonix.zendesk.com/hc/en-us) for public use. This involved getting a responsive layout ready, transitioning all CS content from Parature to Zendesk, and setting up the CS flow.
 
