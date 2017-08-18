@@ -17,4 +17,4 @@ A listing of projects I've worked on.
 
 **Rock Band 4**: The sequel to the highest rated game of all time. I worked as a community manager handling reactive social media, the occasional press release, and blog post.
 
-**Other**: Check out my [itch page](http://www.thecianrice.itch.io) to see many of my other projects - a mix of gamejam, personal, and academic work.
+**Other**: Check out my [itch page](http//www.thecianrice.itch.io) to see many of my other projects - a mix of gamejam, personal, and academic work.
