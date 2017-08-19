@@ -1,11 +1,11 @@
 ---
-layout: projects
+layout: about
 ---
 # About
 
 Cian has worked on multiple projects ranging from local community websites to AAA videogames, and a bit of everything in-between. Below is a sampling of his work across different disciplines.
 
-**Please check-back soon for more detailed information on different projects at the [projects](http://cianrice.co/projects.html) page.
+**Please check-back soon for more detailed information on different projects at the [projects](http://cianrice.co/projects.html) page.**
 
 ## Development
  + [HYPER GROOVE: Musical Insanity](https://thecianrice.itch.io/hyper-groove)
